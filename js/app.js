@@ -4,21 +4,21 @@
 
   // ---------- Datos ----------
   var perritos = [
-    { id: 'max',    nombre: 'Max',    raza: 'Labrador mestizo',   edadMeses: 24, tamano: 'Grande',  sexo: 'Macho', img: 'img/dog-max.png',
+    { id: 'max',    nombre: 'Max',    raza: 'Labrador mestizo',   edadMeses: 24, tamano: 'Grande',  sexo: 'Macho', img: 'img/dog-max.jpg',
       desc: 'Juguetón y cariñoso. Adora los paseos largos y llevarse bien con los niños.' },
-    { id: 'luna',   nombre: 'Luna',   raza: 'Beagle',             edadMeses: 12, tamano: 'Mediano', sexo: 'Hembra', img: 'img/dog-luna.png',
+    { id: 'luna',   nombre: 'Luna',   raza: 'Beagle',             edadMeses: 12, tamano: 'Mediano', sexo: 'Hembra', img: 'img/dog-luna.jpg',
       desc: 'Curiosa y muy olfativa. Perfecta para familias activas que disfruten del parque.' },
-    { id: 'coco',   nombre: 'Coco',   raza: 'Chihuahua',          edadMeses: 48, tamano: 'Pequeño', sexo: 'Macho', img: 'img/dog-coco.png',
+    { id: 'coco',   nombre: 'Coco',   raza: 'Chihuahua',          edadMeses: 48, tamano: 'Pequeño', sexo: 'Macho', img: 'img/dog-coco.jpg',
       desc: 'Valiente y leal. Se adapta muy bien a departamentos y le encanta el calorcito.' },
-    { id: 'rocky',  nombre: 'Rocky',  raza: 'Pastor mestizo',     edadMeses: 36, tamano: 'Grande',  sexo: 'Macho', img: 'img/dog-rocky.png',
+    { id: 'rocky',  nombre: 'Rocky',  raza: 'Pastor mestizo',     edadMeses: 36, tamano: 'Grande',  sexo: 'Macho', img: 'img/dog-rocky.jpg',
       desc: 'Protector, inteligente y obediente. Necesita espacio y mucha actividad.' },
-    { id: 'mia',    nombre: 'Mía',    raza: 'Poodle',             edadMeses: 60, tamano: 'Pequeño', sexo: 'Hembra', img: 'img/dog-mia.png',
+    { id: 'mia',    nombre: 'Mía',    raza: 'Poodle',             edadMeses: 60, tamano: 'Pequeño', sexo: 'Hembra', img: 'img/dog-mia.jpg',
       desc: 'Elegante y tranquila. Ideal para personas que buscan compañía serena.' },
-    { id: 'toby',   nombre: 'Toby',   raza: 'Criollo',            edadMeses: 6,  tamano: 'Mediano', sexo: 'Macho', img: 'img/dog-toby.png',
+    { id: 'toby',   nombre: 'Toby',   raza: 'Criollo',            edadMeses: 6,  tamano: 'Mediano', sexo: 'Macho', img: 'img/dog-toby.jpg',
       desc: 'Cachorro lleno de energía que está aprendiendo sus primeras órdenes.' },
-    { id: 'nala',   nombre: 'Nala',   raza: 'Husky siberiano',    edadMeses: 24, tamano: 'Grande',  sexo: 'Hembra', img: 'img/dog-nala.png',
+    { id: 'nala',   nombre: 'Nala',   raza: 'Husky siberiano',    edadMeses: 24, tamano: 'Grande',  sexo: 'Hembra', img: 'img/dog-nala.jpg',
       desc: 'Aventurera y platicadora. Requiere ejercicio diario y un hogar con espacio.' },
-    { id: 'pelusa', nombre: 'Pelusa', raza: 'Schnauzer mestiza',  edadMeses: 96, tamano: 'Pequeño', sexo: 'Hembra', img: 'img/dog-pelusa.png',
+    { id: 'pelusa', nombre: 'Pelusa', raza: 'Schnauzer mestiza',  edadMeses: 96, tamano: 'Pequeño', sexo: 'Hembra', img: 'img/dog-pelusa.jpg',
       desc: 'Dulce y noble. Busca un hogar tranquilo donde pasar sus años dorados.' }
   ];
 
